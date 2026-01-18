@@ -1,0 +1,1 @@
+﻿const hrefs = [...document.querySelectorAll('a.details-link.residential-card__details-link')].map(a => a.href);
