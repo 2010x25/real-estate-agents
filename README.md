@@ -310,6 +310,10 @@ Implements a **multi-agent AI system** using **Microsoft Agent Framework** to an
 
 ---
 
+## 🎥 Demo
+<video src="https://github.com/2010x25/real-estate-agents/blob/main/demo.mp4" width="600" controls></video>
+
+
 ## 🛠️ Tech Stack
 
 - **Language**: C# (.NET)
