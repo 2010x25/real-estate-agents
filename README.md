@@ -57,7 +57,7 @@ This repository demonstrates an **end-to-end AI-powered real estate information 
 ---
 
 ## ✨ High-Level Architecture
-  <img src="overview.png"/>
+  <img src="https://github.com/2010x25/real-estate-agents/blob/main/overview.PNG"/>
   
 ```
 Text File (URLs)
