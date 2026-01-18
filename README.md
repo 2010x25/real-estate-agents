@@ -164,32 +164,33 @@ Reads a list of property URLs from a text file, loads each page using **Puppetee
 
 ### Input
 - A text file containing real estate URLs, for example:
+  
   ```
   https://www.realestate.com.au/property-apartment-nsw-north+sydney-443379952
-https://www.realestate.com.au/property-apartment-nsw-north+sydney-443112468
-https://www.realestate.com.au/property-studio-nsw-north+sydney-443208816
-https://www.realestate.com.au/property-apartment-nsw-north+sydney-430326854
-https://www.realestate.com.au/property-apartment-nsw-north+sydney-443248604
-https://www.realestate.com.au/property-apartment-nsw-north+sydney-442978384
-https://www.realestate.com.au/property-house-nsw-north+sydney-443369504
-https://www.realestate.com.au/property-apartment-nsw-north+sydney-443366516
-https://www.realestate.com.au/property-apartment-nsw-north+sydney-437609036
-https://www.realestate.com.au/property-apartment-nsw-north+sydney-443365848
-https://www.realestate.com.au/property-unit-nsw-north+sydney-407471285
-https://www.realestate.com.au/property-apartment-nsw-north+sydney-443359504
-https://www.realestate.com.au/property-apartment-nsw-north+sydney-443354020
-https://www.realestate.com.au/property-apartment-nsw-north+sydney-440119476
-https://www.realestate.com.au/property-apartment-nsw-north+sydney-443350708
-https://www.realestate.com.au/property-apartment-nsw-north+sydney-423821986
-https://www.realestate.com.au/property-apartment-nsw-north+sydney-443241160
-https://www.realestate.com.au/property-apartment-nsw-north+sydney-443337596
-https://www.realestate.com.au/property-apartment-nsw-north+sydney-442963792
-https://www.realestate.com.au/property-unit-nsw-north+sydney-441349032
-https://www.realestate.com.au/property-apartment-nsw-north+sydney-443326372
-https://www.realestate.com.au/property-apartment-nsw-north+sydney-443073648
-https://www.realestate.com.au/property-apartment-nsw-north+sydney-435190895
-https://www.realestate.com.au/property-apartment-nsw-north+sydney-442944772
-https://www.realestate.com.au/property-apartment-nsw-north+sydney-442944324
+  https://www.realestate.com.au/property-apartment-nsw-north+sydney-443112468
+  https://www.realestate.com.au/property-studio-nsw-north+sydney-443208816
+  https://www.realestate.com.au/property-apartment-nsw-north+sydney-430326854
+  https://www.realestate.com.au/property-apartment-nsw-north+sydney-443248604
+  https://www.realestate.com.au/property-apartment-nsw-north+sydney-442978384
+  https://www.realestate.com.au/property-house-nsw-north+sydney-443369504
+  https://www.realestate.com.au/property-apartment-nsw-north+sydney-443366516
+  https://www.realestate.com.au/property-apartment-nsw-north+sydney-437609036
+  https://www.realestate.com.au/property-apartment-nsw-north+sydney-443365848
+  https://www.realestate.com.au/property-unit-nsw-north+sydney-407471285
+  https://www.realestate.com.au/property-apartment-nsw-north+sydney-443359504
+  https://www.realestate.com.au/property-apartment-nsw-north+sydney-443354020
+  https://www.realestate.com.au/property-apartment-nsw-north+sydney-440119476
+  https://www.realestate.com.au/property-apartment-nsw-north+sydney-443350708
+  https://www.realestate.com.au/property-apartment-nsw-north+sydney-423821986
+  https://www.realestate.com.au/property-apartment-nsw-north+sydney-443241160
+  https://www.realestate.com.au/property-apartment-nsw-north+sydney-443337596
+  https://www.realestate.com.au/property-apartment-nsw-north+sydney-442963792
+  https://www.realestate.com.au/property-unit-nsw-north+sydney-441349032
+  https://www.realestate.com.au/property-apartment-nsw-north+sydney-443326372
+  https://www.realestate.com.au/property-apartment-nsw-north+sydney-443073648
+  https://www.realestate.com.au/property-apartment-nsw-north+sydney-435190895
+  https://www.realestate.com.au/property-apartment-nsw-north+sydney-442944772
+  https://www.realestate.com.au/property-apartment-nsw-north+sydney-442944324
   ```
 
 
